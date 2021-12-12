@@ -10,6 +10,6 @@ window.onload = function() {
   console.log("Hello Rigo from the console!");
 };
 
-// EJERCICIO //
+// EJERCICIO RESUELTO EN INDEX.JS //
 
 import "./index.js";
